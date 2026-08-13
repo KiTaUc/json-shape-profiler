@@ -1,0 +1,13 @@
+{
+  "name": "json-shape-profiler",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "json-shape-profiler": "src/index.mjs"
+  },
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check src/index.mjs"
+  },
+  "license": "MIT"
+}

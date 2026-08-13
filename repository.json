@@ -1,0 +1,12 @@
+{
+  "repository": "json-shape-profiler",
+  "title": "JSON Shape Profiler",
+  "description": "Локальный отчёт о типах, nullable-полях и различиях формы объектов в JSON-массиве.",
+  "topics": [
+    "json",
+    "data-analysis",
+    "nodejs",
+    "cli",
+    "developer-tools"
+  ]
+}
